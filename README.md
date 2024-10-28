@@ -1,4 +1,5 @@
-# JFMEngine - **J**ava **F**orces and **M**otion Engine  \n[Work in Progress]
+# JFMEngine - **J**ava **F**orces and **M**otion Engine
+# [Work in Progress]
 
 JFMEngine is a modular and basic Java physics engine designed to perform various physics, math, and graphical computations.
 This is a Java port of another repository of mine and is only used to stay in touch with Java.
