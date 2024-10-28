@@ -1,4 +1,4 @@
-# JFMEngine - **J**ava **F**orces and **M**otion Engine  [Work in Progress]
+# JFMEngine - **J**ava **F**orces and **M**otion Engine  \n[Work in Progress]
 
 JFMEngine is a modular and basic Java physics engine designed to perform various physics, math, and graphical computations.
 This is a Java port of another repository of mine and is only used to stay in touch with Java.
@@ -22,14 +22,13 @@ Note: For graphics I use **Java Swing**.
 
 ## Getting Started
 
-1. **Import the JFMEngine** [Repository is **MavenCentral**:
+1. **Install the JFMEngine dependency** [Repository is **MavenCentral**]:
    ```xml
    <dependencies>
        <dependency>
            <groupId>de.aboutcloud</groupId>
            <artifactId>jfmengine</artifactId>
            <version>1.0</version>
-           <scope>provided</scope>
        </dependency>
     </dependencies>
    ```
@@ -53,8 +52,8 @@ Note: For graphics I use **Java Swing**.
 
    loop.start();
    ```
-
-   3. **Compile, run and enjoy the simulation!**
+   
+4. **Compile, run and enjoy the simulation!**
 
 ## License
 
